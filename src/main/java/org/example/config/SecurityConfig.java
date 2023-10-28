@@ -1,5 +1,5 @@
-// TODO: 28.10.2023 Для реализации варианта приложения #1 расскомитить класс 
-
+// TODO: 28.10.2023 Для реализации варианта приложения #1 расскомитить класс
+//
 //package org.example.config;
 //
 //import org.keycloak.adapters.springsecurity.KeycloakConfiguration;
